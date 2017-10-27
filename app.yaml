@@ -22,6 +22,8 @@ handlers:
   static_dir: js
 - url: /img
   static_dir: img
+- url: /medias
+  static_dir: medias
 
 # Les pages
 - url: /about
