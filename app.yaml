@@ -9,8 +9,18 @@ handlers:
 
 #Les ressources statiques
 - url: /css
-  static_dir: web/css
+  static_dir: css
 - url: /js
-  static_dir: web/js
+  static_dir: js
 - url: /img
-  static_dir: web/img
+  static_dir: img
+
+# Les pages
+- url: /about
+  script: about.html
+- url: /contact
+  script: contact.html
+- url: /graphics
+  script: graphics.html
+- url: /experience
+  script: experience.html
