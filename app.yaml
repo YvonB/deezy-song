@@ -8,6 +8,14 @@ handlers:
   script: index.html
 
 #Les ressources statiques
+- url: /color
+  static_dir: color
+- url: /contactform
+  static_dir: contactform
+- url: /font-awesome
+  static_dir: font-awesome
+- url: /fonts
+  static_dir: fonts
 - url: /css
   static_dir: css
 - url: /js

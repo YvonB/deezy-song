@@ -1,6 +1,6 @@
 Thanks for downloading this theme!
 
-Theme Name: Personal
-Theme URL: https://bootstrapmade.com/personal-free-resume-bootstrap-template/
+Theme Name: Lonely
+Theme URL: https://bootstrapmade.com/free-html-bootstrap-template-lonely/
 Author: BootstrapMade
 Author URL: https://bootstrapmade.com
