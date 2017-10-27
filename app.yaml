@@ -1,0 +1,16 @@
+runtime: php55
+api_version: 1
+
+handlers:
+
+# Accueil global
+- url: /
+  script: index.html
+
+#Les ressources statiques
+- url: /css
+  static_dir: web/css
+- url: /js
+  static_dir: web/js
+- url: /img
+  static_dir: web/img
